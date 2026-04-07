@@ -1,0 +1,15 @@
+# Dependencies
+node_modules/
+
+# Build output
+dist/
+
+# pnpm
+.pnpm-debug.log
+
+# OS
+.DS_Store
+
+# Env
+.env
+.env.local
